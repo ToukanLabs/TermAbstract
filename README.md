@@ -30,7 +30,7 @@ The backend is what we particularly care about. There are a number of areas that
 
 We don't expect you to spend days on this. We simply wanted to provide a defined problem space for you to work in, and provide a project around which we can have a follow up discussion. We'd recommend you thinking about 1 or 2 areas, and doing some work in that area. 
 
-We are interested in your ability to articulate and describe your approaches as much as the actual implementation. So you are welcome to provide a plan for implementation with some code snippets if that is your preference.
+We are interested in your ability to articulate and describe your approaches as much as the actual implementation. We do expect to see code in your submission, but descriptions of how you would take it forward are also of value.
 
 ## Getting started
 
@@ -42,4 +42,9 @@ Once you have cloned it, you can run
 composer install
 npm install
 composer run dev
+php artisan make:fresh --seed
 ```
+
+## FAQ
+
+See [here](./FAQ.md)
