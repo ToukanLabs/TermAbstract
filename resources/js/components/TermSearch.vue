@@ -3,7 +3,7 @@
       <div class="ui vertical segment">
         <div class="flexbox">
           <div class="flex-content">
-            <h3>Dynamic Search with ajax (country name)</h3>
+            <h3>Dynamic Search with ajax (disorder term)</h3>
             <div>
               <model-list-select
                 :list="terms"
