@@ -6,7 +6,7 @@ This is an extremely rough and ready laravel project that has been created to pr
 
 When recording diagnoses for patients, clinicians will typically pick from a short list, or will carry out a search to look for the diagnosis they want to record.
 
-This project simulates this with a very basic Laravel application that has a Disorder model that simply contains the SNOMED code and the term for a couple of disorders. The index page provides an off the shelf search component that will perform an ajax search against this model.
+This project simulates this with a very basic Laravel application that has a Disorder model that simply contains the [SNOMED](https://snomed.org) code and the term for a couple of disorders. The index page provides an off the shelf search component that will perform an ajax search against this model through a simple route path.
 
 ## The problem
 
